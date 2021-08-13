@@ -1,0 +1,11 @@
+.cartaoPar {
+    background: red;
+    height: 80px;
+    width: 80px;
+}
+
+.cartaoImpar {
+    background: blue;
+    height: 80px;
+    width: 80px;
+}
